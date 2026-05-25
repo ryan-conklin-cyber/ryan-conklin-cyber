@@ -7,7 +7,7 @@ Hobbyist Lab builder to build systems that increases revenue and reduce TTV!
 
 
 
-## Cyber Labs 
+## Labs 
 
 - **[Vulnerability Management Program Implementation](https://github.com/ryan-conklin-cyber/vulnerability-management-program)**
 
