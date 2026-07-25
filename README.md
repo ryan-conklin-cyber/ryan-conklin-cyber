@@ -11,7 +11,6 @@ Hobbyist Lab builder to build systems that increases revenue and reduce TTV!
 
 - **[Vulnerability Management Program Implementation](https://github.com/ryan-conklin-cyber/vulnerability-management-program)**
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
